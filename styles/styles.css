@@ -404,7 +404,7 @@ body {
 .additional-image img{
     margin-top: 40px;
     margin-left: 80px; 
-    width: 400px;
+    width: 390px;
     border: 5px solid transparent; /* Add a transparent border */
     transition: transform 0.3s ease;
 }
